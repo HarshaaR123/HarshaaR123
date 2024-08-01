@@ -42,7 +42,7 @@
 
 
 
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages and Tools:</h3>
+<h3><img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-4375641-3645911.mp4" width="30"> Languages and Tools:</h3>
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
