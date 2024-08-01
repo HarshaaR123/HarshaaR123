@@ -37,7 +37,7 @@
 <h3><img src="https://cdn-icons-png.flaticon.com/128/1017/1017466.png" width="25" height="25"> Connect with me:</h3>
 
 <a href="mailto:harshrathod.scoe.chem@gmail.com">![harshrathod.scoe.chem@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)</a> 
-<a href="https://www.linkedin.com/in/ harsh-rathod9359">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/harsh-rathod9359/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)</a>
 <a href="https://www.kaggle.com/harshbabanrathod">![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)</a>
 
 
